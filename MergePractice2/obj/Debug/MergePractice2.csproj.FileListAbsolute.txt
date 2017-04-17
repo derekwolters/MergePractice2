@@ -1,1 +1,2 @@
 c:\users\derek\documents\visual studio 2015\Projects\MergePractice2\MergePractice2\bin\Debug\MergePractice2.exe.config
+C:\Users\jbute\Documents\MergePractice2\MergePractice2\bin\Debug\MergePractice2.exe.config
