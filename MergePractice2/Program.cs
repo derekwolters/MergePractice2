@@ -14,7 +14,7 @@ namespace MergePractice2
             Console.WriteLine("Hello World!");
 
             Console.WriteLine("My name is JOSHY");
-            Console.WriteLine("I HATE THIS");
+            Console.WriteLine("I HATE THIS so much");
             Console.WriteLine("ITS WORKING");
         }
     }
