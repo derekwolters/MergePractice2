@@ -10,6 +10,7 @@ namespace MergePractice2
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Derek's addition");
             Console.WriteLine("Hello World!");
 
             Console.WriteLine("My name is JOSHY");
