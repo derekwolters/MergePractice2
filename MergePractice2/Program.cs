@@ -13,6 +13,8 @@ namespace MergePractice2
             Console.WriteLine("Hello World!");
 
             Console.WriteLine("My name is JOSHY");
+
+            Console.WriteLine("ITS WORKING");
         }
     }
 }
